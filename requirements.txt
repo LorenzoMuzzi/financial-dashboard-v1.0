@@ -1,0 +1,10 @@
+fredapi
+lxml
+matplotlib
+numpy
+openpyxl
+pandas
+Pillow
+requests
+tkcalendar
+yfinance
